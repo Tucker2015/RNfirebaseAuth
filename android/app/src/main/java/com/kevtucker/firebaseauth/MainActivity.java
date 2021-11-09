@@ -1,4 +1,4 @@
-package com.firebaseauth;
+package com.kevtucker.firebaseauth;
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
 
