@@ -28,7 +28,7 @@ const LoginScreen = ({ navigation }) => {
                 onChangeText={userPassword => setPassword(userPassword)}
                 secureTextEntry={true}
             />
-            <FormButton buttonTitle='Login' onPress={() => login(email, password)} />
+            <FormButton buttonTitle='Login' onPress={() => alert('login button')} />
             <TouchableOpacity
                 style={styles.navButton}
                 onPress={() => navigation.navigate('Signup')}

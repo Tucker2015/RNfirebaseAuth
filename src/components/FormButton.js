@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
     buttonContainer: {
         marginTop: 10,
         width: windowWidth / 2,
-        height: windowHeight / 15,
+        height: windowHeight / 18,
         backgroundColor: '#6646ee',
         padding: 10,
         alignItems: 'center',
@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
         borderRadius: 8
     },
     buttonText: {
-        fontSize: 28,
+        fontSize: 18,
         color: '#ffffff'
     }
 });
