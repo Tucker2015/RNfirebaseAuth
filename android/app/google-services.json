@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "328983702533",
+    "project_id": "rnfirebaseauth-86ad5",
+    "storage_bucket": "rnfirebaseauth-86ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328983702533:android:62708483b2e31886bb806c",
+        "android_client_info": {
+          "package_name": "com.kevtucker.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328983702533-nsmt847jto6sgc5tsdml1rlfvlt9ddsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHPeJ0LDhcecsohj39LLH5pl2CoOwFN8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328983702533-nsmt847jto6sgc5tsdml1rlfvlt9ddsc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328983702533-50lcq8fv018ivqo8rdedsc0kfk58ue4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kevtucker.firebaseAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
